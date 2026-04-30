@@ -1,0 +1,40 @@
+lista = []
+
+lista.append("Isadora")
+lista.append("Jose")
+lista.append("Rafael")
+lista.append("Leony")
+lista.append("Ruan")
+lista.append("Vinicius")
+lista.append("Renan")
+lista.append("Julio")
+lista.append("Thiago")
+lista.append("João Pedro")
+
+print(lista)
+
+lista = []
+
+x = input("Digite um nome: \n")
+lista.append(x)
+x = input("Digite um nome: \n")
+lista.append(x)
+x = input("Digite um nome: \n")
+lista.append(x)
+x = input("Digite um nome: \n")
+lista.append(x)
+x = input("Digite um nome: \n")
+lista.append(x)
+x = input("Digite um nome: \n")
+lista.append(x)
+x = input("Digite um nome: \n")
+lista.append(x)
+x = input("Digite um nome: \n")
+lista.append(x)
+x = input("Digite um nome: \n")
+lista.append(x)
+x = input("Digite um nome: \n")
+lista.append(x)
+x = input("Digite um nome: \n")
+
+print(lista)
